@@ -24,7 +24,7 @@ Make sure to install RPi.GPIO to access your Raspberry Pi's GPIO pins from Pytho
 pip install RPi.GPIO
 ```
 
-Also, you need the drivers for the LCD in the same folder where this script is located at. You can download the drivers from [Freenove's Github Repo](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/tree/master/Code/Python_Code/20.1.1_I2CLCD1602). Make sure to download the driver for [PCF8574](https://raw.githubusercontent.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/master/Code/Python_Code/20.1.1_I2CLCD1602/PCF8574.py) and the [Adafruit Char LCD] (https://raw.githubusercontent.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/master/Code/Python_Code/20.1.1_I2CLCD1602/Adafruit_LCD1602.py). Download and place these files wherever this script is located at.
+Also, you need the drivers for the LCD in the same folder where this script is located at. You can download the drivers from [Freenove's Github Repo](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/tree/master/Code/Python_Code/20.1.1_I2CLCD1602). Make sure to download the driver for [PCF8574](https://raw.githubusercontent.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/master/Code/Python_Code/20.1.1_I2CLCD1602/PCF8574.py) and the [Adafruit Char LCD](https://raw.githubusercontent.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/master/Code/Python_Code/20.1.1_I2CLCD1602/Adafruit_LCD1602.py). Download and place these files wherever this script is located at.
 
 ## CLI
 After recreating the setup and installing GPi.GPIO, you can use the command line like so:
